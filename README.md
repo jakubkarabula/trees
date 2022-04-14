@@ -1,7 +1,5 @@
 Hey :)
 
-In this project you can find my implementation of the Ecosia's frontend challange.
-
 For the project I have used:
 * React
 * vite for running and building
